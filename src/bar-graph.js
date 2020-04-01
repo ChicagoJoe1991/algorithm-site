@@ -2,7 +2,7 @@ import React from "react";
 import bubbleSort from "./bubble-sort";
 import selectionSort from "./selection-sort";
 import insertionSort from "./insertion-sort";
-import { mergeSort, merge } from "./merge-sort";
+import { mergeSort } from "./merge-sort";
 import { shuffleArray, createArray } from "./bar-array";
 import "./App.css";
 
